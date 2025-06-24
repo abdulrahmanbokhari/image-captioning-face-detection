@@ -1,2 +1,6 @@
 # image-captioning-face-detection
-streamlit app for face detection and image captioning
+This is a Streamlit app that:
+-Uploads an image
+-Detects faces using face_recognition
+-Draws face boxes with OpenCV
+-Generates an image caption using a Hugging Face transformers
